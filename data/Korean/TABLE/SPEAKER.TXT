@@ -1,3 +1,0 @@
-﻿SCD	SEX	AGE	ACC
-0121	M	46	South Korea,,
-0003	F	23	South Korea,,
