@@ -37,4 +37,6 @@ wheels/
 # Project specific
 raw_data/
 data/
+data1/
+data_*/
 archive.zip 
