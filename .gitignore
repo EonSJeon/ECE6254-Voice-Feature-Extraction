@@ -39,4 +39,10 @@ raw_data/
 data/
 data1/
 data_*/
-archive.zip 
+archive.zip
+src/accent/model_70.h5
+
+# IDE
+.idea/
+*.swp
+*.swo 
