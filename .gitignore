@@ -37,4 +37,12 @@ wheels/
 # Project specific
 raw_data/
 data/
-archive.zip 
+data1/
+data_*/
+archive.zip
+src/accent/model_70.h5
+
+# IDE
+.idea/
+*.swp
+*.swo 
